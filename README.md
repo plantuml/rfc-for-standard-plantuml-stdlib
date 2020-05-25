@@ -13,7 +13,7 @@ September 30th 2020
 * Crashedmind (crashedmind@gmail.com)
 * Arnaud Roques (plantuml@gmail.com)
 
-##How to contribute ?
+## How to contribute ?
 This RFC is hosted at https://github.com/plantuml/rfc-for-standard-plantuml-stdlib
 You can use regular Github tools to open issues or submit modifications.
 
